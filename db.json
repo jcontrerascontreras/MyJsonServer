@@ -11,16 +11,4 @@
     "rating": 4.5,
     "urlPhoto": "https://www.hoydiariodelmagdalena.com.co/wp-content/uploads/2020/06/Bah%C3%ADa-de-El-Rodadero.jpg"
   },
-  {
-    "name": "Taganga",
-    "description": "Taganga es un característico y típico pueblo de pescadores, es muy popular por sus hermosos paisajes y miradores. También es frecuentada por sus varias escuelas de buceo. Taganga concentra la mayoría de empresas que prestan servicios de buceo o snorkeling de la región.",
-    "rating": 4.2,
-    "urlPhoto": "https://dynamic-media-cdn.tripadvisor.com/media/urlPhoto-o/05/e8/19/91/taganga-and-playa-grande.jpg?w=500&h=300&s=1"
-  },
-  {
-    "name": "Parque Tayrona",
-    "description": "El Parque Tayrona es uno de los Parques Naturales mas importantes de Colombia y es sin lugar a dudas un lugar para la Contemplación y Descanso. Este espectacular Nirvana Natural tiene unas magníficas playas de aguas cristalinas: Cinto, Concha, Playa Cristal, Chengue, Neguanje, Gayraca, Guachaquita, entre otras.",
-    "rating": 4.7,
-    "urlPhoto": "https://tierracolombiana.org/wp-content/uploads/2019/05/2-2.jpg"
-  }
 ]
