@@ -1,4 +1,4 @@
-{
+[
   "sites" : [
     {
       "name": "Bahía de Santa Marta",
@@ -13,4 +13,4 @@
       "urlPhoto": "https://www.hoydiariodelmagdalena.com.co/wp-content/uploads/2020/06/Bah%C3%ADa-de-El-Rodadero.jpg"
     },
   ]
-}
+]
